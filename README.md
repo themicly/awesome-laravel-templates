@@ -33,3 +33,8 @@ An awesome list of Laravel templates (paid and free) from the wonderful communit
 - [Ray](https://myray.app/) - Desktop app to show errors.
 
 ##### Free
+- [Akaunting](https://akaunting.com/) - Accounting software designed for small businesses and freelancers.
+- [BookStack](https://www.bookstackapp.com/) - Simple and free wiki software.
+- [Invoice Ninja](https://www.invoiceninja.com/) - Invoices, Expenses and Tasks built with Laravel and Flutter.
+- [Polr](http://demo.polr.me/) - A modern, powerful, and robust URL shortener
+
