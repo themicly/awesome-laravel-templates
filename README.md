@@ -6,22 +6,30 @@ An awesome list of Laravel templates (paid and free) from the wonderful communit
 
 - [Admin Panel](#admin-panel)
 - [E-commerce](#e-commerce)
+- [Application](#application)
 
 ### Admin Panel
 
-#### Paid
+##### Paid
 - **[Laravel Nova](https://nova.laravel.com/)** - Administration panel for Laravel
 - [Radmin](http://radmin.vongima.com/login) - Laravel kickstarter with REST API 
 
-#### Free
+##### Free
 - [Voyager](https://voyager.devdojo.com/) - CRUD, media manager and menu builder
 
 ### E-Commerce
 
-#### Paid
+##### Paid
 - **[Laravel Spark](https://spark.laravel.com/)** - SaaS billing solution.
 
-#### Free
+##### Free
 - [Aimeos](https://aimeos.org/laravel-ecommerce-package) - Laravel e-commerce and shop framework
 - [Bagisto](https://bagisto.com/) - Echosystem for build and scalable e-commerce
 
+
+### Application
+##### Paid
+- [Acelle](https://acellemail.com/) - Email marketing web application
+- [Ray](https://myray.app/) - Desktop app to show errors.
+
+##### Free
